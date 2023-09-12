@@ -6,3 +6,4 @@ enum class Nivel {
     AVANCADO
 }
 
+class Usuario(val username: String, val nome: String)
